@@ -16,10 +16,10 @@ ul li {
 }
 
 .header {
-    background-image: url(fashion.jpg);
+    background-image: url(pg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 400px;
+    height: 500px;
 }
 
 .head {
@@ -31,12 +31,38 @@ ul li {
     display: flex;
     justify-content: space-evenly;
     padding: 10px;
-    color: white;
-    background-color: black;
+    
+    background-color: rgb(229,229,229);
 }
 
 .introC {
     text-align: center;
     padding: 30px;
     padding-top: 30px;
+}
+.no1{
+    text-align: center;
+    background-color: azure;
+}
+.haircuts{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.no2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    height: 300px;
+    padding: 40px;
+}
+.no3{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+   
+
+}
+.content3{
+    padding: 10px;
 }
