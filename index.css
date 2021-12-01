@@ -1,0 +1,42 @@
+.nav {
+    top: 30px;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    top: -70px;
+    margin: 0 15px;
+    color: blue;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    float: right;
+}
+
+.header {
+    background-image: url(fashion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.head {
+    text-align: center;
+    padding: 60px;
+    font-size: 30px;
+}
+.intro{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+
+.introC {
+    text-align: center;
+    padding: 30px;
+    padding-top: 30px;
+}
