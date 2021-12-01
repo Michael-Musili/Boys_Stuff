@@ -66,3 +66,11 @@ ul li {
 .content3{
     padding: 10px;
 }
+.no4{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    height: 350px;
+    background-color: azure;
+
+}
