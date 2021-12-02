@@ -1,6 +1,9 @@
 .nav {
     top: 30px;
 }
+.hd{
+    font-size: 20px;
+}
 
 ul li {
     list-style: none;
@@ -13,10 +16,11 @@ ul li {
     display: flex;
     justify-content: space-evenly;
     float: right;
+    font-size: 25px;
 }
 
 .header {
-    background-image: url(pg.jpg);
+    background-image: url(images/ac.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -32,7 +36,8 @@ ul li {
     justify-content: space-evenly;
     padding: 10px;
     
-    background-color: rgb(229,229,229);
+    background-color: aliceblue;
+    background-size: cover;
 }
 
 .introC {
@@ -43,6 +48,8 @@ ul li {
 .no1{
     text-align: center;
     background-color: azure;
+    background-size: cover;
+    padding-top: 0;
 }
 .haircuts{
     display: flex;
@@ -72,5 +79,38 @@ ul li {
     padding: 40px;
     height: 350px;
     background-color: azure;
+
+}
+.no5{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    height: 350px;
+    background-color: aliceblue;
+
+}
+.content5{
+    padding: 20px;
+}
+.Accessories{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.no6{
+    text-align: center;
+    background-color: azure;
+    padding: 30px;
+}
+.footer{
+        background-color: black ;
+        height: -20px;
+        padding: 10px;
+        text-align: center;
+        color: white;
+        font-size: 8px;
+        border: 1px black;
+        padding-top: 10px;
+        width: 100%;
 
 }
