@@ -34,10 +34,8 @@ ul li {
 .intro{
     display: flex;
     justify-content: space-evenly;
-    padding: 10px;
-    
     background-color: aliceblue;
-    background-size: cover;
+
 }
 
 .introC {
